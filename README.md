@@ -1,10 +1,10 @@
 # Ryan Munga Njeru
 
-> *Backend engineer. Systems thinker. Building things that matter.*
+> *Backend engineer. Systems thinker. Computer Programmer*
 
-I'm a Software Engineering student at **USIU-Africa**, focused on backend development and distributed systems. I build with Java & Spring Boot by day, explore cloud infrastructure by night, and occasionally write Prolog for fun.
+I'm a Software Engineering student at **USIU-Africa**, focused on backend development and distributed systems. I'm a total Java-head using Spring Boot and JavaFX. Occassionally, I write scripts in Python and Bash.
 
-Currently: Lead Backend Engineer @ [Marsoney Labs](https://github.com/mistermunga) — a grassroots tech ed platform for young adults in Western Kenya.
+Currently: Lead Backend Engineer @ [Marsoney Labs](https://www.marsoneylabs.co.ke) — a grassroots tech ed platform for young adults in Western Kenya.
 
 ---
 
