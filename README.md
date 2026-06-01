@@ -4,7 +4,7 @@
 
 I'm a Software Engineering student at **USIU-Africa**, focused on backend development and distributed systems. I'm a total Java-head using Spring Boot and JavaFX. Occassionally, I write scripts in Python and Bash.
 
-Currently: Lead Backend Engineer @ [Marsoney Labs](https://www.marsoneylabs.co.ke) — a grassroots tech ed platform for young adults in Western Kenya.
+Currently: Lead Backend Engineer @ [Marsoney Labs](https://www.marsoneylabs.co.ke) — a tech ed platform for young adults in Kenya.
 
 ---
 
@@ -54,7 +54,7 @@ Currently: Lead Backend Engineer @ [Marsoney Labs](https://www.marsoneylabs.co.k
 ## A Bit More
 
 - 🏆 Ranked **top 10 in Kenya** at IEEExtreme coding competition
-- 📚 Peer tutor for OOP & intro programming — highest-rated tutor, USIU Fall 2024
+- 📚 Tutor for OOP & intro programming — highest-rated tutor, USIU Fall 2024
 - 🌍 Dean's List × 5 semesters
 - 🗣️ Fluent in **English**, **Swahili**, and **French**
 
