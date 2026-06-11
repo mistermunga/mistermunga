@@ -54,7 +54,7 @@ Currently: Lead Backend Engineer @ [Marsoney Labs](https://www.marsoneylabs.co.k
 
 ## A Bit More
 
-- 🏆 Ranked **top 10 in Kenya** at IEEExtreme coding competition
+- 🏆 Ranked **top 10 in Kenya** at IEEExtreme 
 - 📚 Tutor for OOP & intro programming — highest-rated tutor, USIU Fall 2024
 - 🌍 Dean's List × 5 semesters
 - 🗣️ Fluent in **English**, **Swahili**, and **French**
